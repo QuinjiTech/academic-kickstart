@@ -67,5 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Aty is a Technocrat who knows his stuff and He is an experienced Security Specialist and server 400+ clients in last 13 years for Server Administration, Security and prevent website and machines from hacking. Prevented Information loss and damages.
+Aty is a Technocrat who knows his stuff and He is an experienced Security Specialist and served 400+ clients in last 13 years for Server Administration, Security and prevent website and machines from hacking. Prevented Information loss and damages.
 

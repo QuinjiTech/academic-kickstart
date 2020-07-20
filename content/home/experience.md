@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Experience's"
 subtitle = ""
 
 # Date format for experience
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   * Server Administration
   * Network Administration
   * Server, Web & Information Security
-  """
+
 
 [[experience]]
   title = "Developer & Designer"

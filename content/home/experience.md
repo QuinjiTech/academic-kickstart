@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   * Server Administration
   * Network Administration
   * Server, Web & Information Security
-
+"""
 
 [[experience]]
   title = "Developer & Designer"
@@ -39,6 +39,9 @@ date_format = "Jan 2006"
   location = "India and Uniited States"
   date_start = "2010-01-31"
   date_end = ""
-  description = """WordPress Programming, Application Development, Plugin and Addons Development, Designing, Managing Websites, Funnels, Automation"""
+  description = """
+  WordPress Programming, Application Development, Plugin and Addons Development and Designing 
+  Managing Websites, Funnels, Automation
+  """
 
 +++
